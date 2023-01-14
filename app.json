@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "13c46099-4e89-4a38-bbd3-1eb0ae5bc879"
+      }
+    },
+    "owner": "caner24"
   }
 }
